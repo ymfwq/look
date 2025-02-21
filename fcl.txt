@@ -23,7 +23,7 @@
     },
     {
       "lang": "zh_CN",
-      "text": "渲染器 MobileGlues 已发布，FCL 于 1.2.0.5 版本适配该渲染器，请更新后安装此插件。\n下载地址：https://github.com/Swung0x48/MobileGlues-release/releases"
+      "text": "渲245212染器 MobileGlues 已发布，FCL 于 1.2.0.5 版本适配该渲染器，请更新后安装此插件。\n下载地址：https://github.com/Swung0x48/MobileGlues-release/releases"
     }
   ]
 }
